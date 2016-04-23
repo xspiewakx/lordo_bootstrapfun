@@ -1,0 +1,76 @@
+html {height:100%;}
+body {height:100%;}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.uspiewaka_header {
+	height:100%;
+	color: white;
+}
+
+.uspiewaka_nav {
+	margin-bottom: 0px;
+	position: fixed;
+	width:100%;
+	background-color: #fff !important;
+	background-image: none !important;
+	border-radius: 0px !important;
+	box-shadow: 0 0 0 !important;
+	z-index:1000;
+}
+.uspiewaka_1_titles { text-align: center; }
+.uspiewaka_contact{
+	margin-bottom: 20px;
+}
+.uspiewaka_contact_bg {
+	background-color: rgba(0,0,0,0.1);
+	margin-top:20px;
+	padding-bottom:20px;
+}
+.uspiewaka_contact2 {
+	height: 180px !important;
+	resize:vertical;
+}
+.uspiewaka_contact_button {
+	width:100%;
+	margin-top:10px;
+	padding-top: 23px;
+	padding-bottom: 23px;
+}
+.uspiewaka_contact_label {
+	/*width: 160px;*/
+	text-align: left;
+}
+.big {
+	text-align:right;
+	height: 100%;
+	width: 100%;
+	text-decoration:none !important;
+}
+.biga {
+	position:relative;
+	margin-top: 30%;
+	right: 0%;
+}
+.biga>u {
+	background-color: #000;
+	color: #fff;
+	text-decoration:none !important;
+	font-size:50px;
+	padding: 10px;
+}
+.bigab {
+	background-color: #000;
+	color: #fff;
+	text-decoration:none !important;
+	font-size:16px;
+	padding: 10px;
+}
+.bigab>u {
+	background-color: #000;
+	color: #fff;
+	text-decoration:none !important;
+	font-size:50px;
+	padding: 10px;
+}
